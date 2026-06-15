@@ -1,0 +1,6 @@
+
+numpy&gt;=1.21.0
+opencv-python&gt;=4.5.0
+scikit-image&gt;=0.18.0
+PyWavelets&gt;=1.1.0
+matplotlib&gt;=3.3.0

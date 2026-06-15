@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.DS_Store
+metadata/data/images/*
+metadata/data/HAM10000_download/
+metadata/features/**/*.csv
+metadata/results/*.csv
